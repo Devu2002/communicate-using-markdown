@@ -13,3 +13,6 @@
 $ git init
 Learned how to add headers, etc.
 ```
+
+- [x] Complete this course today
+- [ ] Sleep
