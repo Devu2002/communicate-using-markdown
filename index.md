@@ -1,29 +1,15 @@
 # Wow!
 
-###### This feels nice, I can add headers now!
+## This feels nice, I can add headers now!
 
 
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
+##Added a pic
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+```
+$ git init
+Learned how to add headers, etc.
+```
